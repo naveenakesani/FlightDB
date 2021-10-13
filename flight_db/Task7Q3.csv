@@ -1,0 +1,8 @@
+faa,name,tzone,id,origin,destination,duration
+DFW,"Dallas Fort Worth Intl",America/Chicago,1,DFW,ORD,165
+EWR,"Newark Liberty Intl",America/New_York,2,EWR,IAH,227
+JFK,"John F Kennedy Intl",America/New_York,3,JFK,MIA,160
+JFK,"John F Kennedy Intl",America/New_York,4,JFK,BQK,300
+EWR,"Newark Liberty Intl",America/New_York,5,EWR,ORD,150
+EWR,"Newark Liberty Intl",America/New_York,6,EWR,FLL,158
+LGA,"La Guardia",America/New_York,7,LGA,DFW,257
